@@ -14,5 +14,6 @@ This detailed project focuses on a thorough analysis of bank loans through vario
 
 - Demographic Insights: Incorporation of demographic data to understand the impact of factors like age, occupation, and location on loan performance.
 
-## Dashboard
+## Tableau Dashboard
+## Tableau Story
 ## Insights from Tableau Dashboard and Tableau Story
