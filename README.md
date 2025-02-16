@@ -32,5 +32,3 @@ This detailed project focuses on a thorough analysis of bank loans through vario
 
 ![image](https://github.com/user-attachments/assets/670e0b2e-deda-407d-843c-edd14c29cda6)
 
-
-## Insights from Tableau Dashboard and Tableau Story
